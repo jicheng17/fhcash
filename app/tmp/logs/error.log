@@ -1,0 +1,98 @@
+2015-12-28 07:46:59 Error: Fatal Error (4): syntax error, unexpected ')' in [/Applications/MAMP/htdocs/fhcash/app/Plugin/Webzash/View/Elements/defaultnavbar.ctp, line 44]
+2015-12-28 07:46:59 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /fhcash/entries/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/fhcash/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#2 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#3 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 07:49:22 Error: [MissingControllerException] Controller class WebzashController could not be found.
+Exception Attributes: array (
+  'class' => 'WebzashController',
+  'plugin' => 'Webzash',
+)
+Request URL: /fhcash/webzash/accounts/index.php
+Stack Trace:
+#0 /Applications/MAMP/htdocs/fhcash/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-28 07:49:35 Error: [MissingControllerException] Controller class WebzashController could not be found.
+Exception Attributes: array (
+  'class' => 'WebzashController',
+  'plugin' => 'Webzash',
+)
+Request URL: /fhcash/webzash/index.php
+Stack Trace:
+#0 /Applications/MAMP/htdocs/fhcash/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-28 07:50:22 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/fhcash/app/Plugin/Webzash/View/Elements/defaultnavbar.ctp, line 47]
+2015-12-28 07:50:22 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /fhcash/dashboard/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/fhcash/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 47, Array)
+#2 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 47, Array)
+#3 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 07:50:59 Error: Fatal Error (4): syntax error, unexpected ',' in [/Applications/MAMP/htdocs/fhcash/app/Plugin/Webzash/View/Elements/defaultnavbar.ctp, line 46]
+2015-12-28 07:50:59 Error: [FatalErrorException] syntax error, unexpected ','
+Request URL: /fhcash/dashboard/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/fhcash/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 46)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 46, Array)
+#2 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 46, Array)
+#3 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 07:51:02 Error: Fatal Error (4): syntax error, unexpected ',' in [/Applications/MAMP/htdocs/fhcash/app/Plugin/Webzash/View/Elements/defaultnavbar.ctp, line 46]
+2015-12-28 07:51:02 Error: [FatalErrorException] syntax error, unexpected ','
+Request URL: /fhcash/dashboard/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/fhcash/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 46)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 46, Array)
+#2 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 46, Array)
+#3 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 07:51:13 Error: Fatal Error (4): syntax error, unexpected ',' in [/Applications/MAMP/htdocs/fhcash/app/Plugin/Webzash/View/Elements/defaultnavbar.ctp, line 46]
+2015-12-28 07:51:13 Error: [FatalErrorException] syntax error, unexpected ','
+Request URL: /fhcash/dashboard/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/fhcash/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 46)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 46, Array)
+#2 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 46, Array)
+#3 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 07:51:16 Error: Fatal Error (4): syntax error, unexpected ',' in [/Applications/MAMP/htdocs/fhcash/app/Plugin/Webzash/View/Elements/defaultnavbar.ctp, line 46]
+2015-12-28 07:51:16 Error: [FatalErrorException] syntax error, unexpected ','
+Request URL: /fhcash/dashboard/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/fhcash/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 46)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 46, Array)
+#2 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 46, Array)
+#3 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 07:51:46 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/fhcash/app/Plugin/Webzash/View/Elements/defaultnavbar.ctp, line 47]
+2015-12-28 07:51:46 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /fhcash/dashboard/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/fhcash/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 47, Array)
+#2 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 47, Array)
+#3 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 07:51:48 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/fhcash/app/Plugin/Webzash/View/Elements/defaultnavbar.ctp, line 47]
+2015-12-28 07:51:48 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /fhcash/dashboard/index
+Stack Trace:
+#0 /Applications/MAMP/htdocs/fhcash/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 47, Array)
+#2 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 47, Array)
+#3 /Applications/MAMP/htdocs/fhcash/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
