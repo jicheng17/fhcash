@@ -67,12 +67,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 			<?php echo $this->fetch('content'); ?>
 		</div>
 		<div id="footer">
-			Powered by
-			<?php echo $this->Html->link(
-				Configure::read('Webzash.AppName') . ' v' . Configure::read('Webzash.AppVersion'),
-				Configure::read('Webzash.AppURL'),
-				array('class' => 'footer-power', 'target' => '_blank')
-			); ?>
+			 Copyright@2016 Feng Hua Language Studies Centre/丰华语言学习中心
 		</div>
 	</div>
 	<?php // echo $this->element('sql_dump'); ?>
